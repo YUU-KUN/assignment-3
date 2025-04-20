@@ -45,8 +45,8 @@ npm run build
 ## 🚀 How to Use
 
 ```html
-
-<link rel="stylesheet" href="dist/compiled-greeter-component.css"> # optional, if using styles
+<!-- Include the compiled CSS and JS -->
+<link rel="stylesheet" href="dist/compiled-greeter-component.css"> 
 <script src="compiled-greeter-component.iife.js"></script>
 <div id="my-component"></div>
 <script>
