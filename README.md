@@ -1,4 +1,4 @@
-# Greeter Component – Vue 3
+# Greeter Component – Dashtomer Assignment 3
 
 A lightweight, embeddable Vue 3 component that renders a button and displays a customizable message in the browser console when clicked. This component is designed to be inserted into **any third-party app** via a simple `<script>` tag.
 
